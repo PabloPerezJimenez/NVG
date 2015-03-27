@@ -1,2 +1,0 @@
-# NVG
-Notas Virtuales Geolocalizadas
